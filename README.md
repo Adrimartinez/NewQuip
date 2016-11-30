@@ -11,6 +11,10 @@ Exporta o imprime facil y rapido tus notas a PDF con solo pulsar un botón.
 <p align="left">
   <img src="https://github.com/Adrimartinez/NewQuip/blob/master/Screenshot_2016-11-30-08-26-21.png" width="200"/>
 </p>
+<p align="left">
+  <img src="https://github.com/Adrimartinez/NewQuip/blob/master/Screenshot_2016-11-30-09-31-11.png" width="200"/>
+</p>
+
 
 <p align="right">
 <h3> Busca tu nota rapidamente mediante la imagen que se haya asignado. Crea una nota rápida con un solo click en el boton inferior drecho.</h3>
@@ -25,14 +29,6 @@ Exporta o imprime facil y rapido tus notas a PDF con solo pulsar un botón.
 </p>
 <p align="left">
   <img src="https://github.com/Adrimartinez/NewQuip/blob/master/Screenshot_2016-11-30-08-27-28.png" width="200"/>
-</p>
-
-
-<p align="right">
-<h3>Añade imágenes a tus notas</h3>
-</p>
-<p align="left">
-  <img src="https://github.com/Adrimartinez/NewQuip/blob/master/Screenshot_2016-11-30-09-31-11.png" width="200"/>
 </p>
 
 <p align="right">
