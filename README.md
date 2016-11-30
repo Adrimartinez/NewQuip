@@ -25,7 +25,9 @@ Exporta o imprime facil y rapido tus notas a PDF con solo pulsar un botón.
 </p>
 <p align="left">
   <img src="https://github.com/Adrimartinez/NewQuip/blob/master/WhatsApp%20Image%202016-11-30%20at%2012.24.33%20(2).jpeg" width="200"/>
+  <img src="https://github.com/Adrimartinez/NewQuip/blob/master/WhatsApp%20Image%202016-11-30%20at%2012.24.33.jpeg" width="200"/>
 </p>
+
 
 <p align="right">
 <h3>Desde el menú lateral podrás acceder rápidamente a tus notas según la categoría que selecciones</h3>
