@@ -6,14 +6,14 @@ Crea listas dentro de tus notas.
 Exporta o imprime facil y rapido tus notas a PDF con solo pulsar un botón.
 
 <p align="right">
-<h3>Esta es la interfaz de creación de una nueva nota.</h3>
+<h3>Esta es la interfaz de creación de una nueva nota. Añade una imagen o descarga la nota mediante los iconos que aparecen en la parte superior</h3>
 </p>
 <p align="left">
   <img src="https://github.com/Adrimartinez/NewQuip/blob/master/Screenshot_2016-11-30-08-26-21.png" width="200"/>
 </p>
 
 <p align="right">
-<h3> Busca tu nota rapidamente mediante la imagen que se haya asignado.Crea una nota rápida con un solo click en el boton inferior drecho.</h3>
+<h3> Busca tu nota rapidamente mediante la imagen que se haya asignado. Crea una nota rápida con un solo click en el boton inferior drecho.</h3>
 </p>
 <p align="left">
   <img src="https://github.com/Adrimartinez/NewQuip/blob/master/Screenshot_2016-11-30-08-25-59.png" width="200"/>
