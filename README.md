@@ -18,7 +18,7 @@ Exporta o imprime facil y rapido tus notas a PDF con solo pulsar un botón.
 <h3> Busca tu nota rapidamente mediante la imagen que se haya asignado. Crea una nota rápida con un solo click en el boton inferior drecho.</h3>
 </p>
 <p align="left">
-  <img src="" width="200"/>
+  <img src="https://github.com/Adrimartinez/NewQuip/blob/master/WhatsApp%20Image%202016-11-30%20at%2012.13.58.jpeg" width="200"/>
 </p>
 
 
