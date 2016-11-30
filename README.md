@@ -24,7 +24,7 @@ Exporta o imprime facil y rapido tus notas a PDF con solo pulsar un botón.
 <h3>Puedes añadir listas a tus notas y mantén organizadas tus notas seleccionando la categoría de la nota</h3>
 </p>
 <p align="left">
-  <img src="https://github.com/Adrimartinez/NewQuip/blob/master/Screenshot_2016-11-30-08-27-28.png" width="200"/>
+  <img src="https://github.com/Adrimartinez/NewQuip/blob/master/WhatsApp%20Image%202016-11-30%20at%2012.24.33%20(2).jpegg" width="200"/>
 </p>
 
 <p align="right">
@@ -32,5 +32,5 @@ Exporta o imprime facil y rapido tus notas a PDF con solo pulsar un botón.
 </p>
 <p align="left">
   <img src="https://github.com/Adrimartinez/NewQuip/blob/master/Screenshot_2016-11-30-08-26-14.png" width="200"/>
-  <img src="https://github.com/Adrimartinez/NewQuip/blob/master/Screenshot_2016-11-30-08-27-36.png" width="200"/>
+  <img src="https://github.com/Adrimartinez/NewQuip/blob/master/WhatsApp%20Image%202016-11-30%20at%2012.24.33%20(1).jpeg" width="200"/>
 </p>
