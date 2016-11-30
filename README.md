@@ -5,4 +5,8 @@ Incluye tus notas dentro de una o varias categorías para mantener tu trabajo bi
 Crea listas dentro de tus notas.
 Exporta o imprime facil y rapido tus notas a PDF con solo pulsar un botón.
 
-![Settings Window](https://github.com/Adrimartinez/NewQuip/blob/master/Screenshot_2016-11-30-08-25-59.png)
+
+<p align="center">
+  <img src="https://github.com/Adrimartinez/NewQuip/blob/master/Screenshot_2016-11-30-08-25-59.png" width="350"/>
+</p>
+
